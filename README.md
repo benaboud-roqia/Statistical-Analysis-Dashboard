@@ -70,18 +70,25 @@ Dark/light theme support
 Responsive layout for different screen sizes
 Tab-based navigation between analysis sections
 Intuitive data input and parameter controls
+
 👥 Author
 Benaboud Roqia
 Student in Master's program in Artificial Intelligence and Data Science
 Passionate about machine learning and advanced data analysis
 Focused on developing intelligent systems
+
 📄 License
 This project is developed for educational purposes as part of a Master's program in Artificial Intelligence and Data Science.
+
 🤝 Contributing
 This project is primarily maintained for academic purposes. However, suggestions and improvements are welcome through GitHub issues.
+
 📞 Contact
 For inquiries about this project, please contact Benaboud Roqia through GitHub.
 plaintext
+
+
+
 <img width="3455" height="1802" alt="image" src="https://github.com/user-attachments/assets/402b6d19-adbe-4b0a-9b78-74d747a5ddaf" />
 <img width="3452" height="1797" alt="image" src="https://github.com/user-attachments/assets/67d6f9c7-3e6e-4908-938d-5f6b9607a94d" />
 <img width="3455" height="1795" alt="image" src="https://github.com/user-attachments/assets/8ad9f810-2285-4481-8773-c9d19bd9e50d" />
