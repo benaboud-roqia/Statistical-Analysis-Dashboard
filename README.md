@@ -64,34 +64,6 @@ A comprehensive statistical analysis platform implementing Principal Component A
 ### Prerequisites
 - Node.js (version 14 or higher)
 - npm or yarn package manager
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/benaboud-roqia/Statistical-Analysis-Dashboard.git
-cd Statistical-Analysis-Dashboard
-npm install
-npm run dev
-The application will be available at http://localhost:3000
-src/
-├── components/
-│   ├── ui/              # Reusable UI components
-│   ├── ACMSection.tsx   # Multiple Correspondence Analysis
-│   ├── ChartVisualization.tsx
-│   ├── DataExport.tsx   # Export functionality
-│   ├── KohonenSection.tsx
-│   ├── PCASection.tsx
-│   ├── StatisticalChatbot.tsx
-│   ├── StatisticalResults.tsx
-│   ├── StatisticsSection.tsx
-│   └── ThemeToggle.tsx
-├── utils/
-│   └── excelParser.ts   # Excel file parsing utilities
-├── App.tsx              # Main application component
-├── main.tsx             # Application entry point
-└── index.css            # Global styles
-
 User Interface
 Clean, professional dashboard design
 Dark/light theme support
@@ -125,5 +97,36 @@ This README provides a comprehensive overview of your Statistical Analysis Dashb
 4. Clear installation and usage instructions
 5. Project structure overview
 6. Information about the author and licensing
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/benaboud-roqia/Statistical-Analysis-Dashboard.git
+cd Statistical-Analysis-Dashboard
+npm install
+npm run dev
+The application will be available at http://localhost:3000
+src/
+├── components/
+│   ├── ui/              # Reusable UI components
+│   ├── ACMSection.tsx   # Multiple Correspondence Analysis
+│   ├── ChartVisualization.tsx
+│   ├── DataExport.tsx   # Export functionality
+│   ├── KohonenSection.tsx
+│   ├── PCASection.tsx
+│   ├── StatisticalChatbot.tsx
+│   ├── StatisticalResults.tsx
+│   ├── StatisticsSection.tsx
+│   └── ThemeToggle.tsx
+├── utils/
+│   └── excelParser.ts   # Excel file parsing utilities
+├── App.tsx              # Main application component
+├── main.tsx             # Application entry point
+└── index.css            # Global styles
+
+
+
+
 
 The README follows best practices for GitHub documentation with appropriate markdown formatting, emojis for visual appeal, and clear section organization.
